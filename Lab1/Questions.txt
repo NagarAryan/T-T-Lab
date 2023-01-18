@@ -1,0 +1,7 @@
+1. WAP to convert kms to miles and vice versa
+2. WAP check wether a year is leap or not 
+3. WAP to convert Decimal to binary,octal,hexadecimal
+4. WAP to check wether a number is a amstrong number or not
+5. WAP to solve a quadratic equation.
+6. WAP to take student details and disply it. (Name, Mobile Number, Email ID) Multiple Students
+7. WAp to check duplicate words in a scentence return true if scentence has any word with duplicate letters else false
