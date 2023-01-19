@@ -9,7 +9,7 @@ def play_game():
     while chances > 0:
         user_guess = int(input("Enter your guess: "))
         if user_guess == random_number:
-            print("Congratulations! You guessed the right number.")
+            print("You guessed the right number.")
             break
         elif user_guess > random_number:
             print("Too high.")
